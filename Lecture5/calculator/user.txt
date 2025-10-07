@@ -1,0 +1,3 @@
+// This is the file which is created by user.js
+
+{"username":"Meera Jain","gender":"female"}
