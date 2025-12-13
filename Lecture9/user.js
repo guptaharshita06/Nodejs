@@ -1,3 +1,5 @@
+//This is user.js which handles user server
+
 const http = require('http');
 const fs = require('fs');
 
