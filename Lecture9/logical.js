@@ -1,3 +1,5 @@
+//This is logical.js which handles logic of project building
+
 const logical = () => {
     let num = 5;
     if(num = 10) {
