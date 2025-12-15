@@ -1,3 +1,5 @@
+//This is syntax.js
+
 const testingSyntax = () => {
     console.log("I am inside testing syntax");
 }
