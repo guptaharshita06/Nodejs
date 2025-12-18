@@ -1,3 +1,5 @@
+//This is logical.js
+
 const logical = () => {
     let num = 5;
     if(num = 10) {
